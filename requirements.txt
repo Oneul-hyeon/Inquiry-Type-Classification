@@ -7,6 +7,5 @@ torch
 transformers
 tqdm
 pandas
-py-hanspell @ git+https://github.com/ssut/py-hanspell.git@fdc6ca50c19f1c85971437a072d89d4e5ce024b8
 torch==2.0.1 -f https://download.pytorch.org/whl/cu101/torch_stable.html
 git+https://github.com/SKTBrain/KoBERT.git#egg=kobert_tokenizer&subdirectory=kobert_hf
