@@ -34,3 +34,5 @@ This file, like the dataset, should be stored in the root folder.
 ## Model
 
 The trained model was uploaded to https://drive.google.com/file/d/1xEshJXtJiIo2su8c4wACn2K5Xh8cEFDo/view?usp=sharing using the '.pth' file extension.
+
+https://colab.research.google.com/drive/1MSgbcPKCkA7X6MfCusRzVejzJIb2RAsn?usp=sharing
