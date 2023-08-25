@@ -1,7 +1,6 @@
 # Inquiry-Type-Classification
 ## Installation
 
-This project was created using colab.
 
 This project also clones the Modefied-KoBERT and Inquiry-Type-Classification repositories together.
 
